@@ -1,0 +1,24 @@
+{
+  "name": "a8-ui-packages",
+  "private": true,
+  "scripts": {
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build --filter=@sc-connect/test-auto-version",
+    "dev:next": "turbo run dev --filter=next-page-app --filter=@sc-connect/test-auto-version --parallel",
+    "version-packages": "changeset version",
+    "release-packages": "changeset publish",
+    "release": "pnpm build && pnpm publish -r"
+  },
+  "author": "Ancient8",
+  "license": "MIT",
+  "devDependencies": {
+    "@changesets/cli": "^2.28.1",
+    "prettier": "^3.5.1",
+    "rimraf": "^6.0.1",
+    "turbo": "^2.4.2"
+  },
+  "engines": {
+    "node": ">=20.16.0"
+  },
+  "packageManager": "pnpm@9.12.0"
+}
