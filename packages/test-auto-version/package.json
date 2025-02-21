@@ -1,7 +1,7 @@
 {
   "name": "@sc-connect/test-auto-version",
   "description": "test auto version",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "danialdinh957",
   "repository": {
     "type": "git",
