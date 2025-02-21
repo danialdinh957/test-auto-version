@@ -1,5 +1,11 @@
 # @sc-connect/test-auto-version
 
+## 0.0.5
+
+### Patch Changes
+
+- b0ba7e3: chore: update script release
+
 ## 0.0.4
 
 ### Patch Changes

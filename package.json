@@ -1,5 +1,5 @@
 {
-  "name": "a8-ui-packages",
+  "name": "test-auto-version-workspace",
   "private": true,
   "scripts": {
     "dev": "turbo run dev --parallel",
@@ -9,7 +9,7 @@
     "release-packages": "pnpm build && changeset publish",
     "release": "pnpm build && pnpm publish -r"
   },
-  "author": "Ancient8",
+  "author": "danialdinh",
   "license": "MIT",
   "devDependencies": {
     "@changesets/cli": "^2.28.1",
