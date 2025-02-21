@@ -1,6 +1,5 @@
 .idea
 
 ~*
-!dist
 
-tsconfig.tsbuildinfo
+**/*/tsconfig.tsbuildinfo

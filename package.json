@@ -6,7 +6,6 @@
     "build": "turbo run build --filter=@sc-connect/test-auto-version",
     "dev:next": "turbo run dev --filter=next-page-app --filter=@sc-connect/test-auto-version --parallel",
     "version-packages": "changeset version",
-    "release-packages": "changeset publish",
     "release": "pnpm build && pnpm publish -r"
   },
   "author": "Ancient8",
