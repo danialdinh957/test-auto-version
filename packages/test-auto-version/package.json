@@ -2,7 +2,14 @@
   "name": "@sc-connect/test-auto-version",
   "description": "test auto version",
   "version": "0.0.0",
-  "author": "danialdinh9597",
+  "author": "danialdinh957",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danialdinh957/test-auto-version"
+  },
+  "bugs": {
+    "url": "https://github.com/danialdinh9597/test-auto-version/issues"
+  },
   "license": "ISC",
   "files": [
     "dist"
