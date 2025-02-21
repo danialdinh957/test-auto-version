@@ -1,5 +1,11 @@
 # @sc-connect/test-auto-version
 
+## 0.0.4
+
+### Patch Changes
+
+- 0821842: chore: update btn
+
 ## 0.0.3
 
 ### Patch Changes
