@@ -1,5 +1,12 @@
 # @sc-connect/test-auto-version
 
+## 0.0.6
+
+### Patch Changes
+
+- cc4512a: 0.0.6-alpha
+- 8a8e863: alpha 1
+
 ## 0.0.6-alpha.1
 
 ### Patch Changes
