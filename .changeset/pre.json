@@ -6,6 +6,7 @@
     "@sc-connect/test-auto-version": "0.0.5"
   },
   "changesets": [
-    "red-hotels-refuse"
+    "red-hotels-refuse",
+    "six-cars-allow"
   ]
 }
